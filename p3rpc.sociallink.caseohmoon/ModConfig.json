@@ -92,6 +92,7 @@
     "Reloaded.Memory.SigScan.ReloadedII",
     "reloaded.sharedlib.hooks",
     "reloaded.universal.fileemulationframework",
+    "Ryo.Reloaded",
     "UnrealEssentials",
     "UTOC.Stream.Emulator"
   ],
