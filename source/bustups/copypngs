@@ -1,0 +1,6 @@
+for i in {0..6}; do 
+  cp T_BU_SC0116_F0${i}_C900_E1.png T_BU_SC0116_F0${i}_C900_E2.png
+  cp T_BU_SC0116_F0${i}_C900_E1.png T_BU_SC0116_F0${i}_C900_E3.png
+  cp T_BU_SC0116_F0${i}_C900_M1.png T_BU_SC0116_F0${i}_C900_M2.png
+  cp T_BU_SC0116_F0${i}_C900_M1.png T_BU_SC0116_F0${i}_C900_M3.png
+done
