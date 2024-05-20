@@ -1,8 +1,8 @@
 {
   "ModId": "p3rpc.sociallink.caseohmoon",
   "ModName": "CaseOh Becomes The Moon",
-  "ModAuthor": "Mr. Camel999",
-  "ModVersion": "0.1.0",
+  "ModAuthor": "Mr. Camel999 \u0026 austinleroy",
+  "ModVersion": "0.5.0",
   "ModDescription": "Replaces the Moon social link entirely",
   "ModDll": "",
   "ModIcon": "Preview.jpeg",
@@ -24,6 +24,20 @@
             "ItemId": 494020
           },
           "ReleaseMetadataName": "p3rpc.essentials.ReleaseMetadata.json"
+        },
+        "Ryo.Reloaded": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 495507
+          },
+          "ReleaseMetadataName": "Ryo.Reloaded.ReleaseMetadata.json"
+        },
+        "SharedScans.Reloaded": {
+          "Config": {
+            "ItemType": "Mod",
+            "ItemId": 495507
+          },
+          "ReleaseMetadataName": "SharedScans.Reloaded.ReleaseMetadata.json"
         }
       }
     },
